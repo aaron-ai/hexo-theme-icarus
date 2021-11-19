@@ -31,6 +31,7 @@ article:
     more: '阅读更多'
     comments: '评论'
     read_time: '%s读完'
+    edited: '编辑于'
     word_count:
         one: '大约%d个字'
         other: '大约%d个字'
@@ -52,8 +53,8 @@ plugin:
     visit_count: '%s次访问'
     visitor_count: '共%s个访客'
     cookie_consent:
-      message: 此网站使用Cookie来改善您的体验。
-      dismiss: 知道了！
+      message: 此网站使用 Cookie，以启用评论系统和分析功能。
+      dismiss: 知道了
       allow: 允许使用Cookie
       deny: 拒绝
       link: 了解更多
