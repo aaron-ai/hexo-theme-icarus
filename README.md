@@ -10,9 +10,6 @@
 
 ![](https://ppoffice.github.io/hexo-theme-icarus/gallery/preview.png?1 "Icarus Preview")
 
-## :raising_hand: Attention
-This is a hexo theme based on icarus and [imaegon's work](https://github.com/imaegoo/hexo-theme-icarus), which support the dark mode. Thanks for [imaegon](https://github.com/imaegoo)
-
 ## :cd: Installation
 
 ```shell
