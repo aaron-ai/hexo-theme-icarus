@@ -16,6 +16,7 @@ module.exports = class extends Component {
 
         return <html lang={language ? language.substr(0, 2) : ''}>
             <Head site={site} config={config} helper={helper} page={page} />
+            <meta name="baidu-site-verification" content="code-Qr8EytF271" />
             <body class={`is-${columnCount}-column`}>
                 <Navbar config={config} helper={helper} page={page} />
                 <section class="section">
