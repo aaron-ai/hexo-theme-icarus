@@ -38,7 +38,7 @@ module.exports = class extends Component {
             <Plugins site={site} config={config} page={page} helper={helper} head={false} />
             <script src={url_for('/js/main.js')} defer></script>
             <script src={url_for('/js/night.js')} defer={true}></script>
-            <script src={`https://cdn.jsdelivr.net/npm/mermaid@${config.mermaid.version}/dist/mermaid.min.js`}></script>
+            <script src={cdn('mermaid', config.mermaid.version, 'dist/mermaid.min.js')}></script>
         </Fragment>;
     }
 };
